@@ -25,7 +25,7 @@ DSS tools provide investors with strategies for making informed decisions in a d
 ---
 A selection of smaller projects demonstrating specific data science and ML skills.
 
-•	Working in the cloud: Using data stored in Azure Blob buckets.
+<a href="https://mathaisibu.github.io/" target="_blank">Working in the cloud: Using data stored in Azure Blob Buckets.</a>•
 
 •	Optimising code with multiprocessing
 
