@@ -8,3 +8,11 @@ DSS tools provide investors with strategies for making informed decisions in a d
 <a href="https://medium.com/@kmsibu/how-does-the-decision-support-system-assist-investors-in-making-smarter-financial-decisions-5f17f8d885a" target="_blank">View Article on Medium</a>
 
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#) [![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)](#) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+
+---
+## Skills-based projects
+---
+###A selection of smaller projects demonstrating specific data science and ML skills.
+•	Working in the cloud: Using data stored in Azure Blob buckets.
+•	Optimising code with multiprocessing
+
