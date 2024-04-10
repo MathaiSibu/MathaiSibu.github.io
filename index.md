@@ -4,7 +4,9 @@
 ### Utilizing Advanced NLP Techniques for Real-time Market Sentiment Analysis in the UK's Emerging Markets.
 
 The aim was to develop a model that leverages Natural Language Processing (NLP) techniques for sentiment analysis in rapidly evolving UK markets, specifically within sectors such as Financial Services, clean energy, and artificial intelligence (AI). The project hypothesizes a significant correlation between market sentiments and market performance and seeks to analyse sentiments expressed in various text sources like social media, financial reports, and news articles.
-It underscores the evolving applicability of NLP techniques in market sentiment analysis, balancing between the innovative use of machine learning (for data preprocessing, feature extraction, and model training) and a lexicon-based approach using sentiment lexicons like VADER for text scoring. 
+It underscores the evolving applicability of NLP techniques in market sentiment analysis, balancing between the innovative use of machine learning (for data preprocessing, feature extraction, and model training) and a lexicon-based approach using sentiment lexicons like VADER for text scoring.
+
+!"/images/DashBoard001.png?raw=true"
 
 View Code on Colab
 
