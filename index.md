@@ -15,5 +15,6 @@ DSS tools provide investors with strategies for making informed decisions in a d
 A selection of smaller projects demonstrating specific data science and ML skills.
 
 •	Working in the cloud: Using data stored in Azure Blob buckets.
+
 •	Optimising code with multiprocessing
 
