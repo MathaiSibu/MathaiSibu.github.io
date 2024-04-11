@@ -10,7 +10,7 @@ It underscores the evolving applicability of NLP techniques in market sentiment 
 
 <a href="https://colab.research.google.com/drive/1AY3ZXtWApLM28IdSj2jzBqHbVHbLTDz7?usp=sharing/" target="_blank">View Code on Colab</a>
 
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#) [![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)](#) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#) [![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)](#) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#) 
 
 ---
 
@@ -19,6 +19,8 @@ It underscores the evolving applicability of NLP techniques in market sentiment 
 DSS tools provide investors with strategies for making informed decisions in a disciplined manner. These tools are especially useful due to the increasing number of investment options and vast amounts of market data. Financial tools within DSSs help investors determine how to invest their funds, whether they are individuals or larger investment organizations. The challenge lies in designing DSS tools that consider investors' preferences and goals while helping them overcome biases and cognitive limitations. As a result, DSS-equipped investors have improved the quality of their investment decisions, leading to increased earnings and decreased risk.
 
 <a href="https://medium.com/@kmsibu/how-does-the-decision-support-system-assist-investors-in-making-smarter-financial-decisions-5f17f8d885a" target="_blank">View Article on Medium</a>
+
+![Static Badge](https://img.shields.io/badge/Medium-badge?style=plastic&logo=Medium&logoColor=white&labelColor=black&color=white)
 
 ---
 ### Skills-based Projects
