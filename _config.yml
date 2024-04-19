@@ -5,8 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Freelancing @ <a href="https://www.around-zero.com/" target="_blank">Around Zero Ltd</a>
   <br><br>
-  HHighly motivated Data Scientist with strong commercial, strategic, and analytical thinking—Master's in Computer Science with Data Science from the University of Sunderland.
-"Passionate about using software to decarbonize travel, food, and energy, I leverage data to tackle the most critical emission challenges swiftly."
+  "Driven Data Scientist with a strategic mindset and Masters in Computer Science and Data Science. Passionate about using software and data to swiftly address crucial emission challenges in travel, food, and energy."
   <br><br>
   <a href="https://www.linkedin.com/in/mathai-k-78437a2a2/" target="_blank">View my LinkedIn Profile</a>
   
@@ -15,5 +14,5 @@ plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-colors:
+colours:
   crimson: '#900C3F'
