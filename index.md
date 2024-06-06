@@ -13,7 +13,15 @@ It underscores the evolving applicability of NLP techniques in market sentiment 
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#) [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#) [![](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) [![](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](#) [![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=white)](#) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](#) [![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) 
 
 ---
+### Unleashing the Power of Sentiment Analysis in UK’s Emerging Markets: A Journey into Real-time Market Insights.
 
+The article explores leveraging NLP for real-time sentiment analysis in the UK's emerging markets, particularly clean energy and AI. The project involves developing an NLP model to analyze sentiments from financial texts, using mixed-methods research, web scraping, APIs, and machine learning, aiming to provide actionable insights for investors and financial institutions.
+
+<a href="https://medium.com/@kmsibu/unleashing-the-power-of-sentiment-analysis-in-uks-emerging-markets-a-journey-into-real-time-4adac021f573" target="_blank">View Article on Medium</a>
+
+![Static Badge](https://img.shields.io/badge/Medium-badge?style=plastic&logo=Medium&logoColor=white&labelColor=black&color=white)
+
+---
 ### How Does the Decision Support System Assist Investors in Making Smarter Financial Decisions?
 
 DSS tools provide investors with strategies for making informed decisions in a disciplined manner. These tools are especially useful due to the increasing number of investment options and vast amounts of market data. Financial tools within DSSs help investors determine how to invest their funds, whether they are individuals or larger investment organizations. The challenge lies in designing DSS tools that consider investors' preferences and goals while helping them overcome biases and cognitive limitations. As a result, DSS-equipped investors have improved the quality of their investment decisions, leading to increased earnings and decreased risk.
