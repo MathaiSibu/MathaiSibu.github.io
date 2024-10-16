@@ -4,7 +4,7 @@
 
 The project, "Unveiling the Story of My Reading Journey," involves the creation of an interactive Power BI dashboard that visualizes personal reading data. It analyzes various aspects, including genre distribution, reading habits over time, rating distributions, and author analyses. Key visualizations such as pie charts, line graphs, and scatter plots provide insights into reading preferences and productivity. The dashboard also tracks monthly progress towards reading goals and highlights top-rated books. This project exemplifies the effective use of data visualization techniques to derive meaningful insights from personal reading habits.
 
-![Analysis](https://github.com/MathaiSibu/MathaiSibu.github.io/assets/134139154/6de1b368-d474-4976-ad5b-7151aa05acde)
+
 
 Access the dashboard here: Power BI Dashboard
 
