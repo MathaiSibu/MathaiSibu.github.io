@@ -8,6 +8,7 @@ The project, "Unveiling the Story of My Reading Journey," involves the creation 
 
 Access the dashboard here: <a href="https://app.powerbi.com/view?r=eyJrIjoiNmExM2VmZGQtNDI0MC00NTJmLTliZWQtYmIwZjBiMzFjYmZlIiwidCI6IjhjZTBhOTAzLTYxMDQtNGY1YS1hNTZhLTk0MzQ1Mjc1NGEwMCJ9">Power BI Dashboard</a>
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 --- 
 ### Utilizing Advanced NLP Techniques for Real-time Market Sentiment Analysis in the UK's Emerging Markets.
 
