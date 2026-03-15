@@ -1,0 +1,68 @@
+---
+layout: page
+title: "Student Risk Identification Model"
+description: "A data-driven early intervention model to identify students at risk of not completing their studies."
+---
+
+# Student Risk Identification Model
+### Data Science Task – Jan 2026
+
+## Overview
+Proactively identify students at risk of not completing their studies using academic, attendance, and financial data — enabling support teams to intervene early with targeted action plans.
+
+---
+
+## Step 1 – Data Preparation & Quality Issues
+
+| Issue | Problem | Solution |
+|---|---|---|
+| **Inconsistency** | Mixed gender labels (`Male` vs `M`), inconsistent date formats | Standardised to single-character codes, unified dates to `DD/MM/YYYY` |
+| **Anomalies** | Duplicate record for Student 1006; non-numeric `.` in `CreditsCompleted` | Removed duplicates; replaced invalid entries with `NaN` |
+| **Missing Values** | Nulls in `AttendanceRate` and `LastAttendanceDate` | Treated as **High Risk signals** — absence of data = warning flag |
+
+---
+
+## Step 2 – Methodology: Weighted Scoring Model
+
+| Category | Weight | Key Metrics |
+|---|---|---|
+| **Engagement** | 50% | Attendance Rate, Last Attendance Date |
+| **Academic** | 30% | Credits Completed, Last Assessment Submission |
+| **Financial & Status** | 20% | Outstanding Fees, Scholarship, Enrolment Status |
+
+> **Rationale**: Disengagement almost always precedes formal withdrawal — making engagement the strongest lead indicator.
+
+---
+
+## Step 3 – Model Output & At-Risk Students
+
+| Student ID | Risk Score | Risk Band | Key Flag |
+|---|---|---|---|
+| Student 1003 | 1.25 / 10 | 🔴 Critical | Suspended, £3,500 debt, no attendance since 2025 |
+| Student 1002 | 2.75 / 10 | 🟠 High | Active but 45% attendance, no recent logins |
+| Student 1005 | 3.10 / 10 | 🟠 High | Known withdrawal — used to validate model |
+| Student 1001 | 6.50 / 10 | 🟢 Low | On track |
+| Student 1004 | 7.20 / 10 | 🟢 Low | On track |
+| Student 1006 | 7.80 / 10 | 🟢 Low | On track |
+
+> **Lower score = Higher risk.** Risk threshold set at 4.0.
+
+---
+
+## Step 4 – Limitations & Future Improvements
+
+### Current Limitations
+- **Small Sample Size** – Snapshot data; no long-term trends or seasonal patterns.
+- **Static Snapshot** – Scores are point-in-time; situations may have already changed.
+- **Missing Behavioural Data** – No VLE login frequency or engagement depth.
+
+### Future Improvements
+- **VLE Integration** – Login frequency and resource access as leading indicators.
+- **Live Dashboard** – Auto-refresh scores when lectures or deadlines are missed.
+- **Longitudinal Dataset** – Train predictive models on historical cohorts for better accuracy.
+
+---
+
+> 📄 **Presentation**: [View Full PDF](Task_Understanding_73a008a8.pdf)  
+> 👤 **Author**: M.S.K  
+> 📅 **Date**: January 2026
