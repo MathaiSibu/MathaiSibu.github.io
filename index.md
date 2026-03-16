@@ -23,8 +23,6 @@ Engagement was given the highest weight because disengagement almost always prec
 [View Strategy Presentation](https://drive.google.com/file/d/1XQpaYKYKFv9KrvoDOQrB6uFR8DQ9clZf/view?usp=sharing)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
