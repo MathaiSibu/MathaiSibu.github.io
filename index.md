@@ -17,6 +17,9 @@ Engagement was given the highest weight because disengagement almost always prec
 
 [View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing) · [View Strategy Presentation](https://drive.google.com/file/d/1XQpaYKYKFv9KrvoDOQrB6uFR8DQ9clZf/view?usp=sharing)
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ---
 
 ### Unveiling the Story of My Reading Journey.
