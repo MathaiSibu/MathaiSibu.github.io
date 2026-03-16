@@ -22,7 +22,8 @@ The model successfully flagged:
 </ul>
 </p>
 <p>
-[View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
+[View Code on Colab]  
+(https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
 
 ---
 
