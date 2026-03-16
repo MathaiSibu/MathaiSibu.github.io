@@ -22,7 +22,7 @@ The model successfully flagged:
 </ul>
 </p>
 <p>
-[View Code and Documentation on GitHub](https://github.com/mathaisibu/student-risk-identification-model)
+[View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
 
 ---
 
