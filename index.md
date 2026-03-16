@@ -12,10 +12,18 @@ A weighted scoring model was designed based on three key pillars:
 
 Engagement was given the highest weight because disengagement almost always precedes formal withdrawal. The model successfully flagged critical risk students and was validated against known withdrawal cases.
 
-![Overview](/images/StudentRisk1.png)
-![Results](/images/StudentRisk2.png)
+#### Project Insights & Strategy
 
-[View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing) · [View Strategy Presentation](https://drive.google.com/file/d/1XQpaYKYKFv9KrvoDOQrB6uFR8DQ9clZf/view?usp=sharing)
+![Risk Overview](/images/risk_overview.png)
+![Risk Results](/images/risk_results.png)
+
+[View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+[View Strategy Presentation](https://drive.google.com/file/d/1XQpaYKYKFv9KrvoDOQrB6uFR8DQ9clZf/view?usp=sharing)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge)
