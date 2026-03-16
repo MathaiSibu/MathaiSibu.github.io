@@ -1,5 +1,32 @@
 ## Selected projects in data science, machine learning and NLP
 ---
+<h3>Student Risk Identification Model – Early Warning System for At-Risk Students</h3>
+<p>
+This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, attendance, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical, High, Medium, Low).
+</p>
+<p>
+A weighted scoring model was designed based on three key pillars:
+<ul>
+  <li><strong>Engagement (50%)</strong>: Attendance rate and recency of last attendance.</li>
+  <li><strong>Academic (30%)</strong>: Credits completed and whether the last assessment was submitted.</li>
+  <li><strong>Financial & Status (20%)</strong>: Outstanding fees, scholarship status, and enrolment status.</li>
+</ul>
+Engagement was given the highest weight because disengagement almost always precedes formal withdrawal.
+</p>
+<p>
+The model successfully flagged:
+<ul>
+  <li><strong>Critical Risk</strong> students with very low engagement, high outstanding fees and suspended status.</li>
+  <li><strong>High Risk</strong> students with low attendance and no recent logins, despite being Active.</li>
+  <li>A known withdrawal case as a validation point, confirming the model’s practical value.</li>
+</ul>
+</p>
+<p>
+<a href="https://github.com/mathaisibu/student-risk-identification-model" target="_blank">View Code and Documentation on GitHub</a>
+</p>
+<hr>
+
+
 ### Unveiling the Story of My Reading Journey.
 
 The project, "Unveiling the Story of My Reading Journey," involves the creation of an interactive Power BI dashboard that visualizes personal reading data. It analyzes various aspects, including genre distribution, reading habits over time, rating distributions, and author analyses. Key visualizations such as pie charts, line graphs, and scatter plots provide insights into reading preferences and productivity. The dashboard also tracks monthly progress towards reading goals and highlights top-rated books. This project exemplifies the effective use of data visualization techniques to derive meaningful insights from personal reading habits.
