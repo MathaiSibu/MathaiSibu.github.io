@@ -12,6 +12,13 @@ A weighted scoring model was designed based on three key pillars:
 
 Engagement was given the highest weight because disengagement almost always precedes formal withdrawal. The model successfully flagged critical risk students and was validated against known withdrawal cases.
 
+#### Key Slides
+
+<p align="center">
+  <img src="images/student_risk_overview.png" width="45%" />
+  <img src="images/student_risk_results.png" width="45%" />
+</p>
+
 [View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing) · [View Strategy Presentation](https://drive.google.com/file/d/1XQpaYKYKFv9KrvoDOQrB6uFR8DQ9clZf/view?usp=sharing)
 
 ---
