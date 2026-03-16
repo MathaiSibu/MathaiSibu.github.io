@@ -2,7 +2,7 @@
 ---
 ### Student Risk Identification Model – Early Warning System for At-Risk Students
 
-This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, engagement, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical, High, Medium, Low).
+This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, engagement, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical/High, Medium, Low).
 
 A weighted scoring model was designed based on three key pillars:
 
