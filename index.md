@@ -6,9 +6,9 @@ This project focuses on proactively identifying students at risk of not completi
 
 A weighted scoring model was designed based on three key pillars:
 
-*   **Engagement (50%)**: Attendance rate and recency of last attendance.
-*   **Academic (30%)**: Credits completed and whether the last assessment was submitted.
-*   **Financial & Status (20%)**: Outstanding fees, scholarship status, and enrolment status.
+* **Engagement (50%)**: Attendance rate and recency of last attendance.
+* **Academic (30%)**: Credits completed and whether the last assessment was submitted.
+* **Financial & Status (20%)**: Outstanding fees, scholarship status, and enrolment status.
 
 Engagement was given the highest weight because disengagement almost always precedes formal withdrawal. The model successfully flagged critical risk students and was validated against known withdrawal cases.
 
@@ -27,7 +27,6 @@ Engagement was given the highest weight because disengagement almost always prec
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
 ### Unveiling the Story of My Reading Journey.
 
 The project, "Unveiling the Story of My Reading Journey," involves the creation of an interactive Power BI dashboard that visualizes personal reading data. It analyzes various aspects, including genre distribution, reading habits over time, rating distributions, and author analyses. Key visualizations such as pie charts, line graphs, and scatter plots provide insights into reading preferences and productivity. The dashboard also tracks monthly progress towards reading goals and highlights top-rated books. This project exemplifies the effective use of data visualization techniques to derive meaningful insights from personal reading habits.
