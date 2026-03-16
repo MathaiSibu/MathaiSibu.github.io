@@ -14,7 +14,7 @@ Engagement was given the highest weight because disengagement almost always prec
 
 #### Project Insights & Strategy
 
-![Risk Overview](/images/Risk_Overview.jpg)
+[Risk Overview](/images/risk_overview.jpg)
 
 [View Code on Colab](https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
