@@ -1,29 +1,21 @@
 ## Selected projects in data science, machine learning and NLP
 ---
-<h3>Student Risk Identification Model – Early Warning System for At-Risk Students</h3>
-<p>
-This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, attendance, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical, High, Medium, Low).
-</p>
-<p>
+### Student Risk Identification Model – Early Warning System for At-Risk Students
+
+This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, engagement, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical, High, Medium, Low).
+
 A weighted scoring model was designed based on three key pillars:
-<ul>
-  <li><strong>Engagement (50%)</strong>: Attendance rate and recency of last attendance.</li>
-  <li><strong>Academic (30%)</strong>: Credits completed and whether the last assessment was submitted.</li>
-  <li><strong>Financial & Status (20%)</strong>: Outstanding fees, scholarship status, and enrolment status.</li>
-</ul>
-Engagement was given the highest weight because disengagement almost always precedes formal withdrawal.
-</p>
-<p>
-The model successfully flagged:
-<ul>
-  <li><strong>Critical Risk</strong> students with very low engagement, high outstanding fees and suspended status.</li>
-  <li><strong>High Risk</strong> students with low attendance and no recent logins, despite being Active.</li>
-  <li>A known withdrawal case as a validation point, confirming the model’s practical value.</li>
-</ul>
-</p>
-<p>
-[View Code on Colab]  
+
+*   **Engagement (50%)**: Attendance rate and recency of last attendance.
+*   **Academic (30%)**: Credits completed and whether the last assessment was submitted.
+*   **Financial & Status (20%)**: Outstanding fees, scholarship status, and enrolment status.
+
+Engagement was given the highest weight because disengagement almost always precedes formal withdrawal. The model successfully flagged critical risk students and was validated against known withdrawal cases.
+
+[View Code on Colab]
 (https://colab.research.google.com/drive/1KD4rMMLjbMihaEsdlhcv2lLX8eFgLVgP?usp=sharing)
+
+---
 
 ---
 
