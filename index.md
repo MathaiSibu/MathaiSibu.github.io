@@ -22,9 +22,9 @@ The model successfully flagged:
 </ul>
 </p>
 <p>
-<a href="https://github.com/mathaisibu/student-risk-identification-model" target="_blank">View Code and Documentation on GitHub</a>
-</p>
-<hr>
+[View Code and Documentation on GitHub](https://github.com/mathaisibu/student-risk-identification-model)
+
+---
 
 
 ### Unveiling the Story of My Reading Journey.
