@@ -43,7 +43,7 @@ Access the dashboard here: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDk1Z
 The aim was to develop a model that leverages Natural Language Processing (NLP) techniques for sentiment analysis in rapidly evolving UK markets, specifically within sectors such as Financial Services, clean energy, and artificial intelligence (AI). The project hypothesizes a significant correlation between market sentiments and market performance and seeks to analyse sentiments expressed in various text sources like social media, financial reports, and news articles.
 It underscores the evolving applicability of NLP techniques in market sentiment analysis, balancing between the innovative use of machine learning (for data preprocessing, feature extraction, and model training) and a lexicon-based approach using sentiment lexicons like VADER for text scoring.
 
-![NLP](https://github.com/MathaiSibu/MathaiSibu.github.io/assets/134139154/6de1b368-d474-4976-ad5b-7151aa05acde)
+![NLP architecture diagram](https://github.com/MathaiSibu/MathaiSibu.github.io/blob/master/images/NLP%20architecture%20diagram.png?raw=true)
 
 <a href="https://colab.research.google.com/drive/1AY3ZXtWApLM28IdSj2jzBqHbVHbLTDz7?usp=sharing/" target="_blank">View Code on Colab</a>
 
