@@ -8,7 +8,7 @@ This project develops a production‑style forecasting pipeline to predict daily
 The pipeline captures lag behaviour, rolling trends, and calendar effects, enabling organisations to anticipate demand patterns and proactively manage operational pressure.
 
 
-Technologies Used
+**Technologies Used**
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/LightGBM-013243?logo=lightgbm&logoColor=white" height="28">
@@ -19,15 +19,11 @@ Technologies Used
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white" height="28">
 </p>
 
-Key Insights
+**Key Insights**
 Achieved MAE: 142.3, RMSE: 198.7, MAPE: 12.4%
-
 Strong predictive performance on unseen data
-
 Lag‑1, Lag‑7, and 7‑day rolling mean were the strongest drivers
-
 Forecast provides early visibility into operational pressure
-
 Supports proactive staffing and service‑level planning
 
 View Full Repository on  <a href="https://github.com/MathaiSibu/complaints_forecasting" target="_blank">
