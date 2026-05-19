@@ -30,7 +30,9 @@ Forecast provides early visibility into operational pressure
 
 Supports proactive staffing and service‑level planning
 
-View Full Repository on <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
+View Full Repository on  <a href="https://github.com/MathaiSibu/complaints_forecasting" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
+</a>
 
 ---
 
