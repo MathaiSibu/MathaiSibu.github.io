@@ -19,12 +19,12 @@ The pipeline captures lag behaviour, rolling trends, and calendar effects, enabl
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white" height="28">
 </p>
 
-**Key Insights**
-Achieved MAE: 142.3, RMSE: 198.7, MAPE: 12.4%
-Strong predictive performance on unseen data
-Lag‑1, Lag‑7, and 7‑day rolling mean were the strongest drivers
-Forecast provides early visibility into operational pressure
-Supports proactive staffing and service‑level planning
+### Key Insights
+
+* **Accuracy Performance:** Achieved **MAE 142.3**, **RMSE 198.7**, and **MAPE 12.4%**, demonstrating strong predictive accuracy on unseen data.
+* **Feature Influence:** **Lag‑1**, **Lag‑7**, and the **7‑day rolling mean** emerged as the most influential drivers of complaint volume.
+* **Operational Visibility:** The model provides **early detection of volume surges**, enabling teams to anticipate operational pressure.
+* **Workforce Planning:** Supports **proactive staffing decisions** and strengthens service‑level performance through forward‑looking insights.
 
 View Full Repository on  <a href="https://github.com/MathaiSibu/complaints_forecasting" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
