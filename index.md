@@ -30,8 +30,7 @@ Forecast provides early visibility into operational pressure
 
 Supports proactive staffing and service‑level planning
 
-View Code
-👉 View Full Repository on GitHub
+View Full Repository on <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
 
 ---
 
