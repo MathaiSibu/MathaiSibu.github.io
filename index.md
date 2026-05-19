@@ -1,5 +1,39 @@
 ## Selected projects in data science, machine learning and NLP
 ---
+📊 Complaint Volume Forecasting
+Machine Learning • Time‑Series Modelling • Operational Forecasting
+This project develops a production‑style forecasting pipeline to predict daily complaint volumes for operational planning, staffing optimisation, and service‑level management. The model leverages engineered time‑series features, LightGBM, and a modular ML architecture to deliver accurate, explainable, and reproducible forecasts.
+
+The pipeline captures lag behaviour, rolling trends, and calendar effects, enabling organisations to anticipate demand patterns and proactively manage operational pressure.
+
+
+Technologies Used
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/LightGBM-013243?logo=lightgbm&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white" height="28">
+</p>
+
+Key Insights
+Achieved MAE: 142.3, RMSE: 198.7, MAPE: 12.4%
+
+Strong predictive performance on unseen data
+
+Lag‑1, Lag‑7, and 7‑day rolling mean were the strongest drivers
+
+Forecast provides early visibility into operational pressure
+
+Supports proactive staffing and service‑level planning
+
+View Code
+👉 View Full Repository on GitHub
+
+---
+
 ### Student Risk Identification Model – Early Warning System for At-Risk Students
 
 This project focuses on proactively identifying students at risk of not completing their studies. By analysing academic, engagement, and financial data, I developed a data-driven early intervention model that assigns each student a risk score and band (Critical/High, Medium, Low).
