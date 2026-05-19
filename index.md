@@ -1,6 +1,7 @@
 ## Selected projects in data science, machine learning and NLP
 ---
-📊 Complaint Volume Forecasting
+### Complaint Volume Forecasting
+
 Machine Learning • Time‑Series Modelling • Operational Forecasting
 This project develops a production‑style forecasting pipeline to predict daily complaint volumes for operational planning, staffing optimisation, and service‑level management. The model leverages engineered time‑series features, LightGBM, and a modular ML architecture to deliver accurate, explainable, and reproducible forecasts.
 
