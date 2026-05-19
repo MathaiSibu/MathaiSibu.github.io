@@ -2,9 +2,9 @@
 ---
 ### Complaint Volume Forecasting
 
-Machine Learning • Time‑Series Modelling • Operational Forecasting
-This project develops a production‑style forecasting pipeline to predict daily complaint volumes for operational planning, staffing optimisation, and service‑level management. The model leverages engineered time‑series features, LightGBM, and a modular ML architecture to deliver accurate, explainable, and reproducible forecasts.
+**Machine Learning • Time‑Series Modelling • Operational Forecasting**
 
+This project develops a production‑style forecasting pipeline to predict daily complaint volumes for operational planning, staffing optimisation, and service‑level management. The model leverages engineered time‑series features, LightGBM, and a modular ML architecture to deliver accurate, explainable, and reproducible forecasts.
 The pipeline captures lag behaviour, rolling trends, and calendar effects, enabling organisations to anticipate demand patterns and proactively manage operational pressure.
 
 
