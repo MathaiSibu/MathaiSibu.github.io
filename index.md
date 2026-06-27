@@ -8,8 +8,6 @@
 This project develops a production‑style forecasting pipeline to predict daily complaint volumes for operational planning, staffing optimisation, and service‑level management. The model leverages engineered time‑series features, LightGBM, and a modular ML architecture to deliver accurate, explainable, and reproducible forecasts.
 The pipeline captures lag behaviour, rolling trends, and calendar effects, enabling organisations to anticipate demand patterns and proactively manage operational pressure.
 
-
-
 **Technologies Used**
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28">
@@ -26,6 +24,8 @@ The pipeline captures lag behaviour, rolling trends, and calendar effects, enabl
 * **Feature Influence:** **Lag‑1**, **Lag‑7**, and the **7‑day rolling mean** emerged as the most influential drivers of complaint volume.
 * **Operational Visibility:** The model provides **early detection of volume surges**, enabling teams to anticipate operational pressure.
 * **Workforce Planning:** Supports **proactive staffing decisions** and strengthens service‑level performance through forward‑looking insights.
+
+
 
 View Full Repository on   <a href="https://github.com/MathaiSibu/complaints_forecasting" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
