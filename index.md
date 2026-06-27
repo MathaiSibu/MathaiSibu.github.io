@@ -25,7 +25,7 @@ The pipeline captures lag behaviour, rolling trends, and calendar effects, enabl
 * **Operational Visibility:** The model provides **early detection of volume surges**, enabling teams to anticipate operational pressure.
 * **Workforce Planning:** Supports **proactive staffing decisions** and strengthens service‑level performance through forward‑looking insights.
 
-
+![Analysis](images/Forecasting.png)
 
 View Full Repository on   <a href="https://github.com/MathaiSibu/complaints_forecasting" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28">
